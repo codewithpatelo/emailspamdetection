@@ -3,6 +3,8 @@
 
 Gerpe Patricio, Simonelli Agostina, Toytoyndjian Eugenia
 
+https://www.youtube.com/watch?v=9--tHWt6osU&list=PLN2e9R_DoC0SaPxIXJcw5ow4HK7CLwTgW
+
 ### Resumen:
 El análisis de lenguaje natural se corresponde a un dominio de aplicación del aprendizaje estadístico que ha crecido en el último tiempo. Entre las aplicaciones más típicas, podemos encontrar el desarrollo de modelos de clasificación binaria entrenados a partir de corpuses de correos electrónicos para poder distinguir al correo electrónico deseado del no deseado. Los métodos de aprendizaje automático supervisado son considerados en la literatura científica como óptimos para esta tarea. El propósito de esta investigación es (A) analizar en profundidad el algoritmo supervisado de clasificación de Naive Bayes en tal aplicación, (B) utilizarlo para etiquetar nuevos correos como deseado o no deseado (spam) comparando el método de Naive Bayes contra otro método supervisado como el Radom Forest en base a la métrica de performance recall y (C ) contribuir didácticamente para comprender la complejidad del análisis de textos, dada entre otras cosas por la ambigüedad del lenguaje .
 Problemática:
